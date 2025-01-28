@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "work",
+        "deadline"
+      ],
+      "content": "Prepare project report",
+      "id": 1737973089367
+    },
+    {
+      "tags": [
+        "personal",
+        "hobbies"
+      ],
+      "content": "Finish reading book",
+      "id": 1737973095316
+    },
+    {
+      "tags": [
+        "personal",
+        "errands"
+      ],
+      "content": "Grocery shopping",
+      "id": 1737973099951
+    },
+    {
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "content": "Gym session at 6pm",
+      "id": 1737973121529
+    },
+    {
+      "tags": [
+        "work",
+        "important"
+      ],
+      "content": "Meeting with team",
+      "id": 1737973127752
+    }
+  ]
+}
